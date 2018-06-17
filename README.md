@@ -29,4 +29,4 @@ $ docker run -ti -v $(pwd):/workdir terminoid
 
 ## Example
 
-![Example](https://github.com/lamer-x11/terminoid/raw/master/example.gif)
+![Example](https://github.com/lamer-x11/examples/raw/master/terminoid.gif)
